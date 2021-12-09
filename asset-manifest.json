@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/findnearbyplaces/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/findnearbyplaces/static/js/main.284d15c9.chunk.js",
-    "main.js.map": "/findnearbyplaces/static/js/main.284d15c9.chunk.js.map",
+    "main.js": "/findnearbyplaces/static/js/main.4bf01ab7.chunk.js",
+    "main.js.map": "/findnearbyplaces/static/js/main.4bf01ab7.chunk.js.map",
     "runtime-main.js": "/findnearbyplaces/static/js/runtime-main.d1268525.js",
     "runtime-main.js.map": "/findnearbyplaces/static/js/runtime-main.d1268525.js.map",
     "static/css/2.0a9ec390.chunk.css": "/findnearbyplaces/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.a6586482.chunk.js": "/findnearbyplaces/static/js/2.a6586482.chunk.js",
-    "static/js/2.a6586482.chunk.js.map": "/findnearbyplaces/static/js/2.a6586482.chunk.js.map",
+    "static/js/2.62c1c007.chunk.js": "/findnearbyplaces/static/js/2.62c1c007.chunk.js",
+    "static/js/2.62c1c007.chunk.js.map": "/findnearbyplaces/static/js/2.62c1c007.chunk.js.map",
     "static/js/3.ec7330df.chunk.js": "/findnearbyplaces/static/js/3.ec7330df.chunk.js",
     "static/js/3.ec7330df.chunk.js.map": "/findnearbyplaces/static/js/3.ec7330df.chunk.js.map",
     "index.html": "/findnearbyplaces/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/findnearbyplaces/static/css/2.0a9ec390.chunk.css.map",
     "static/css/main.6dea0f05.chunk.css.map": "/findnearbyplaces/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.a6586482.chunk.js.LICENSE.txt": "/findnearbyplaces/static/js/2.a6586482.chunk.js.LICENSE.txt"
+    "static/js/2.62c1c007.chunk.js.LICENSE.txt": "/findnearbyplaces/static/js/2.62c1c007.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d1268525.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.a6586482.chunk.js",
+    "static/js/2.62c1c007.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.284d15c9.chunk.js"
+    "static/js/main.4bf01ab7.chunk.js"
   ]
 }
