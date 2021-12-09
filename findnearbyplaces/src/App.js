@@ -4,6 +4,7 @@ import Home from './components/Home';
 import Signin from './components/Signup';
 import Login from './components/Login';
 import Menu from './components/Menu';
+import REPORT from './components/report';
 import { useEffect, useState } from 'react';
 //import React from 'react';
 import {
@@ -55,6 +56,9 @@ function App() {
           </Route>
           <Route path="/login">
             <Login onAuthenticated={onCustomerAuthenticated} />
+          </Route>
+          <Route path="/report">
+            <REPORT />
           </Route>
           <Route path="/">
             <Home getIndex={getnumIndex} />

@@ -10,6 +10,9 @@ const Menu = () => {
                 <Navbar.Toggle />
                 <Navbar.Collapse className="justify-content-end">
                     <Nav.Item>
+                        <Nav.Link href="#report">Report a new place</Nav.Link>
+                    </Nav.Item>
+                    <Nav.Item>
                         <Nav.Link href="#login">Login</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
